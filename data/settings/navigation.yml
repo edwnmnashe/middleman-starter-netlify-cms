@@ -5,3 +5,5 @@ nav_items:
     path: /products/
   - label: News
     path: /news
+  - label: About Us
+    path: /about
